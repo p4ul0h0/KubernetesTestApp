@@ -1,4 +1,4 @@
 eureka:
   client:
     serviceUrl:
-      defaultZone: ${SERVICE_REGISTRY_URL}
+      defaultZone: ${EUREKA_ADDRESS}
